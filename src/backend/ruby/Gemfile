@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'          # Sinatra framework
+gem 'sqlite3'         # SQLite database
+gem 'sequel'          # ORM for easier database interactions
+gem 'rack'            # Rack is a modular Ruby web server interface
+gem 'dotenv'          # For managing environment variables (optional but recommended)
+gem 'json'            # For JSON handling
+
